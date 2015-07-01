@@ -1,0 +1,8 @@
+Dict validator
+
+validates an incomming data dict against a filter dict:
+
+validate(filter, data)
+
+example:
+
